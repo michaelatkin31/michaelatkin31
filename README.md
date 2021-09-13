@@ -1,7 +1,5 @@
 👋 Hi, I’m Michael! 
 
-🌲 I’m Stanford Class of '24 
-
 I’m currently learning machine learning, specifically NLP.
 
 <!---

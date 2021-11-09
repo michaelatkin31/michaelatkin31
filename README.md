@@ -2,8 +2,6 @@
 
 I’m a Stanford undergrad majoring in CS 👾
 
-Most of my projects are set to private, but feel free to check out the two projects I've made public!
-
 Email me at mjatkin@stanford.edu!
 
 <!---
